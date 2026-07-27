@@ -11,6 +11,10 @@ import { useSessions } from "@/hooks/use-sessions";
 import { filterSessions } from "@/lib/utils";
 import type { Session } from "@/lib/types";
 
+import { LoadingCard } from "@/components/ui/loading-card";
+import { ErrorState } from "@/components/ui/error-state";
+import { EmptyState } from "@/components/ui/empty-state";
+
 export default function DashboardPage() {
   const router = useRouter();
   const isEnabled = true
@@ -83,11 +87,35 @@ export default function DashboardPage() {
         />
 
         <div className="min-h-0 flex-1">
-          <SessionTable
-            sessions={filteredSessions}
-            selectedSessionId=""
-            onSelect={handleSelectSession}
-          />
+
+          {dataState.status === "loading" && (
+            <LoadingCard />
+          )}
+
+          {dataState.status === "error" && (
+            <ErrorState
+              message={dataState.message}
+              onRetry={retry}
+            />
+          )}
+
+          {dataState.status === "ready" && (
+            filteredSessions.length === 0 ? (
+              <EmptyState
+                title="No sessions match the filters"
+                description="Widen the date range or clear the student filter to bring sessions back into view."
+                actionLabel="Reset filters"
+                onAction={clearFilters}
+              />
+            ) : (
+              <SessionTable
+                sessions={filteredSessions}
+                selectedSessionId=""
+                onSelect={handleSelectSession}
+              />
+            )
+          )}
+
         </div>
       </section>
     </main>
