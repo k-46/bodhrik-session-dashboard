@@ -1,25 +1,52 @@
-# bodhrik-session-dashboard
-A Next.js dashboard for visualizing session evaluation data.
+# Bodhrik Session Dashboard
 
-## Overview
-This project is being developed as part of a frontend take-home assessment. The application will provide an interface to view session data, filter sessions, and visualize evaluation metrics over time.
+A Next.js dashboard for viewing and exploring mock session evaluation data.
 
-## Planned Features
-* Session listing
-* Student and date range filtering
-* Session details
-* Metrics visualization
-* Mock authentication
-* Loading, empty, and error state handling
-* Responsive UI
+## Features
+
+- Session listing
+- Student and date range filtering
+- Session detail view
+- Metrics visualization
+- Mock authentication
+- Loading, empty, and error states
+- Responsive interface
 
 ## Tech Stack
-* Next.js
-* React
-* TypeScript
-* Tailwind CSS
 
-## Project Status
-🚧 Project initialization.
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Recharts
 
-Documentation will be updated as the project progresses.
+## Getting Started
+
+```bash
+cd session-evaluation-dashboard
+npm install
+npm run dev
+```
+
+Open http://localhost:3000 in your browser.
+
+## Project Structure
+
+```
+Directory structure:
+└── k-46-bodhrik-session-dashboard/
+    ├── session-evaluation-dashboard/
+    │   ├── app/
+    │   ├── components/
+    │   ├── data/
+    │   ├── hooks/
+    │   ├── lib/
+    │   └── proxy.ts
+    └── README.md
+
+```
+
+## Notes
+
+- Uses mock session data.
+- Includes mock authentication using a demo access code.
