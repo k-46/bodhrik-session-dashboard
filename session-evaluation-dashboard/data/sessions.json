@@ -1,0 +1,1116 @@
+{
+  "sessions": [
+    {
+      "id": "sess_004",
+      "studentName": "Arjun Mehta",
+      "date": "2026-07-17",
+      "metrics": [
+        {
+          "timestamp": "00:00:00",
+          "engagementScore": 57,
+          "clarityScore": 77,
+          "pacingScore": 65
+        },
+        {
+          "timestamp": "00:05:00",
+          "engagementScore": 62,
+          "clarityScore": 81,
+          "pacingScore": 69
+        },
+        {
+          "timestamp": "00:10:00",
+          "engagementScore": 57,
+          "clarityScore": 84,
+          "pacingScore": 73
+        },
+        {
+          "timestamp": "00:15:00",
+          "engagementScore": 53,
+          "clarityScore": 86,
+          "pacingScore": 78
+        },
+        {
+          "timestamp": "00:20:00",
+          "engagementScore": 50,
+          "clarityScore": 82,
+          "pacingScore": 79
+        },
+        {
+          "timestamp": "00:25:00",
+          "engagementScore": 50,
+          "clarityScore": 80,
+          "pacingScore": 83
+        },
+        {
+          "timestamp": "00:30:00",
+          "engagementScore": 55,
+          "clarityScore": 82,
+          "pacingScore": 80
+        },
+        {
+          "timestamp": "00:35:00",
+          "engagementScore": 59,
+          "clarityScore": 81,
+          "pacingScore": 86
+        },
+        {
+          "timestamp": "00:40:00",
+          "engagementScore": 65,
+          "clarityScore": 75,
+          "pacingScore": 83
+        }
+      ]
+    },
+    {
+      "id": "sess_005",
+      "studentName": "Chloe Dubois",
+      "date": "2026-07-16",
+      "metrics": [
+        {
+          "timestamp": "00:00:00",
+          "engagementScore": 78,
+          "clarityScore": 65,
+          "pacingScore": 67
+        },
+        {
+          "timestamp": "00:05:00",
+          "engagementScore": 81,
+          "clarityScore": 70,
+          "pacingScore": 66
+        },
+        {
+          "timestamp": "00:10:00",
+          "engagementScore": 78,
+          "clarityScore": 74,
+          "pacingScore": 67
+        },
+        {
+          "timestamp": "00:15:00",
+          "engagementScore": 78,
+          "clarityScore": 78,
+          "pacingScore": 68
+        },
+        {
+          "timestamp": "00:20:00",
+          "engagementScore": 74,
+          "clarityScore": 76,
+          "pacingScore": 64
+        },
+        {
+          "timestamp": "00:25:00",
+          "engagementScore": 71,
+          "clarityScore": 81,
+          "pacingScore": 66
+        }
+      ]
+    },
+    {
+      "id": "sess_009",
+      "studentName": "Isabella Rossi",
+      "date": "2026-07-12",
+      "metrics": [
+        {
+          "timestamp": "00:00:00",
+          "engagementScore": 77,
+          "clarityScore": 66,
+          "pacingScore": 68
+        },
+        {
+          "timestamp": "00:05:00",
+          "engagementScore": 76,
+          "clarityScore": 67,
+          "pacingScore": 70
+        },
+        {
+          "timestamp": "00:10:00",
+          "engagementScore": 77,
+          "clarityScore": 62,
+          "pacingScore": 67
+        },
+        {
+          "timestamp": "00:15:00",
+          "engagementScore": 74,
+          "clarityScore": 57,
+          "pacingScore": 66
+        },
+        {
+          "timestamp": "00:20:00",
+          "engagementScore": 68,
+          "clarityScore": 60,
+          "pacingScore": 68
+        },
+        {
+          "timestamp": "00:25:00",
+          "engagementScore": 65,
+          "clarityScore": 63,
+          "pacingScore": 65
+        },
+        {
+          "timestamp": "00:30:00",
+          "engagementScore": 59,
+          "clarityScore": 58,
+          "pacingScore": 70
+        },
+        {
+          "timestamp": "00:35:00",
+          "engagementScore": 63,
+          "clarityScore": 52,
+          "pacingScore": 67
+        },
+        {
+          "timestamp": "00:40:00",
+          "engagementScore": 58,
+          "clarityScore": 46,
+          "pacingScore": 66
+        },
+        {
+          "timestamp": "00:45:00",
+          "engagementScore": 53,
+          "clarityScore": 48,
+          "pacingScore": 63
+        },
+        {
+          "timestamp": "00:50:00",
+          "engagementScore": 51,
+          "clarityScore": 52,
+          "pacingScore": 64
+        },
+        {
+          "timestamp": "00:55:00",
+          "engagementScore": 48,
+          "clarityScore": 54,
+          "pacingScore": 60
+        },
+        {
+          "timestamp": "01:00:00",
+          "engagementScore": 53,
+          "clarityScore": 57,
+          "pacingScore": 63
+        }
+      ]
+    },
+    {
+      "id": "sess_001",
+      "studentName": "Maya Rodriguez",
+      "date": "2026-07-04",
+      "metrics": [
+        {
+          "timestamp": "00:00:00",
+          "engagementScore": 52,
+          "clarityScore": 63,
+          "pacingScore": 65
+        },
+        {
+          "timestamp": "00:05:00",
+          "engagementScore": 47,
+          "clarityScore": 67,
+          "pacingScore": 70
+        },
+        {
+          "timestamp": "00:10:00",
+          "engagementScore": 49,
+          "clarityScore": 62,
+          "pacingScore": 73
+        },
+        {
+          "timestamp": "00:15:00",
+          "engagementScore": 49,
+          "clarityScore": 56,
+          "pacingScore": 67
+        },
+        {
+          "timestamp": "00:20:00",
+          "engagementScore": 44,
+          "clarityScore": 53,
+          "pacingScore": 64
+        },
+        {
+          "timestamp": "00:25:00",
+          "engagementScore": 46,
+          "clarityScore": 56,
+          "pacingScore": 58
+        }
+      ]
+    },
+    {
+      "id": "sess_002",
+      "studentName": "Ben Okafor",
+      "date": "2026-06-29",
+      "metrics": [
+        {
+          "timestamp": "00:00:00",
+          "engagementScore": 74,
+          "clarityScore": 85,
+          "pacingScore": 74
+        },
+        {
+          "timestamp": "00:05:00",
+          "engagementScore": 72,
+          "clarityScore": 91,
+          "pacingScore": 68
+        },
+        {
+          "timestamp": "00:10:00",
+          "engagementScore": 78,
+          "clarityScore": 97,
+          "pacingScore": 64
+        },
+        {
+          "timestamp": "00:15:00",
+          "engagementScore": 83,
+          "clarityScore": 97,
+          "pacingScore": 63
+        },
+        {
+          "timestamp": "00:20:00",
+          "engagementScore": 81,
+          "clarityScore": 93,
+          "pacingScore": 60
+        },
+        {
+          "timestamp": "00:25:00",
+          "engagementScore": 87,
+          "clarityScore": 92,
+          "pacingScore": 55
+        },
+        {
+          "timestamp": "00:30:00",
+          "engagementScore": 82,
+          "clarityScore": 92,
+          "pacingScore": 50
+        }
+      ]
+    },
+    {
+      "id": "sess_006",
+      "studentName": "Liam Chen",
+      "date": "2026-06-28",
+      "metrics": [
+        {
+          "timestamp": "00:00:00",
+          "engagementScore": 77,
+          "clarityScore": 74,
+          "pacingScore": 66
+        },
+        {
+          "timestamp": "00:05:00",
+          "engagementScore": 79,
+          "clarityScore": 75,
+          "pacingScore": 61
+        },
+        {
+          "timestamp": "00:10:00",
+          "engagementScore": 85,
+          "clarityScore": 69,
+          "pacingScore": 56
+        },
+        {
+          "timestamp": "00:15:00",
+          "engagementScore": 81,
+          "clarityScore": 73,
+          "pacingScore": 52
+        },
+        {
+          "timestamp": "00:20:00",
+          "engagementScore": 87,
+          "clarityScore": 77,
+          "pacingScore": 52
+        },
+        {
+          "timestamp": "00:25:00",
+          "engagementScore": 90,
+          "clarityScore": 72,
+          "pacingScore": 52
+        },
+        {
+          "timestamp": "00:30:00",
+          "engagementScore": 90,
+          "clarityScore": 75,
+          "pacingScore": 53
+        },
+        {
+          "timestamp": "00:35:00",
+          "engagementScore": 92,
+          "clarityScore": 73,
+          "pacingScore": 55
+        },
+        {
+          "timestamp": "00:40:00",
+          "engagementScore": 86,
+          "clarityScore": 77,
+          "pacingScore": 60
+        }
+      ]
+    },
+    {
+      "id": "sess_010",
+      "studentName": "Ethan Wallace",
+      "date": "2026-06-24",
+      "metrics": [
+        {
+          "timestamp": "00:00:00",
+          "engagementScore": 77,
+          "clarityScore": 75,
+          "pacingScore": 66
+        },
+        {
+          "timestamp": "00:05:00",
+          "engagementScore": 81,
+          "clarityScore": 75,
+          "pacingScore": 65
+        },
+        {
+          "timestamp": "00:10:00",
+          "engagementScore": 81,
+          "clarityScore": 75,
+          "pacingScore": 66
+        },
+        {
+          "timestamp": "00:15:00",
+          "engagementScore": 86,
+          "clarityScore": 69,
+          "pacingScore": 70
+        },
+        {
+          "timestamp": "00:20:00",
+          "engagementScore": 90,
+          "clarityScore": 73,
+          "pacingScore": 65
+        },
+        {
+          "timestamp": "00:25:00",
+          "engagementScore": 84,
+          "clarityScore": 73,
+          "pacingScore": 70
+        },
+        {
+          "timestamp": "00:30:00",
+          "engagementScore": 83,
+          "clarityScore": 79,
+          "pacingScore": 65
+        }
+      ]
+    },
+    {
+      "id": "sess_012",
+      "studentName": "Oliver Bennett",
+      "date": "2026-06-24",
+      "metrics": [
+        {
+          "timestamp": "00:00:00",
+          "engagementScore": 78,
+          "clarityScore": 75,
+          "pacingScore": 42
+        },
+        {
+          "timestamp": "00:05:00",
+          "engagementScore": 78,
+          "clarityScore": 73,
+          "pacingScore": 48
+        },
+        {
+          "timestamp": "00:10:00",
+          "engagementScore": 84,
+          "clarityScore": 74,
+          "pacingScore": 46
+        },
+        {
+          "timestamp": "00:15:00",
+          "engagementScore": 84,
+          "clarityScore": 79,
+          "pacingScore": 51
+        },
+        {
+          "timestamp": "00:20:00",
+          "engagementScore": 90,
+          "clarityScore": 81,
+          "pacingScore": 55
+        },
+        {
+          "timestamp": "00:25:00",
+          "engagementScore": 95,
+          "clarityScore": 82,
+          "pacingScore": 51
+        },
+        {
+          "timestamp": "00:30:00",
+          "engagementScore": 92,
+          "clarityScore": 80,
+          "pacingScore": 48
+        }
+      ]
+    },
+    {
+      "id": "sess_018",
+      "studentName": "Mason Clarke",
+      "date": "2026-06-21",
+      "metrics": [
+        {
+          "timestamp": "00:00:00",
+          "engagementScore": 62,
+          "clarityScore": 63,
+          "pacingScore": 67
+        },
+        {
+          "timestamp": "00:05:00",
+          "engagementScore": 59,
+          "clarityScore": 67,
+          "pacingScore": 64
+        },
+        {
+          "timestamp": "00:10:00",
+          "engagementScore": 63,
+          "clarityScore": 62,
+          "pacingScore": 63
+        },
+        {
+          "timestamp": "00:15:00",
+          "engagementScore": 69,
+          "clarityScore": 64,
+          "pacingScore": 63
+        },
+        {
+          "timestamp": "00:20:00",
+          "engagementScore": 72,
+          "clarityScore": 69,
+          "pacingScore": 59
+        },
+        {
+          "timestamp": "00:25:00",
+          "engagementScore": 69,
+          "clarityScore": 65,
+          "pacingScore": 65
+        },
+        {
+          "timestamp": "00:30:00",
+          "engagementScore": 75,
+          "clarityScore": 61,
+          "pacingScore": 65
+        }
+      ]
+    },
+    {
+      "id": "sess_003",
+      "studentName": "Sara Lin",
+      "date": "2026-06-16",
+      "metrics": [
+        {
+          "timestamp": "00:00:00",
+          "engagementScore": 79,
+          "clarityScore": 67,
+          "pacingScore": 49
+        },
+        {
+          "timestamp": "00:05:00",
+          "engagementScore": 74,
+          "clarityScore": 67,
+          "pacingScore": 44
+        },
+        {
+          "timestamp": "00:10:00",
+          "engagementScore": 76,
+          "clarityScore": 65,
+          "pacingScore": 48
+        },
+        {
+          "timestamp": "00:15:00",
+          "engagementScore": 79,
+          "clarityScore": 64,
+          "pacingScore": 51
+        },
+        {
+          "timestamp": "00:20:00",
+          "engagementScore": 76,
+          "clarityScore": 69,
+          "pacingScore": 46
+        },
+        {
+          "timestamp": "00:25:00",
+          "engagementScore": 70,
+          "clarityScore": 73,
+          "pacingScore": 43
+        },
+        {
+          "timestamp": "00:30:00",
+          "engagementScore": 76,
+          "clarityScore": 71,
+          "pacingScore": 38
+        },
+        {
+          "timestamp": "00:35:00",
+          "engagementScore": 73,
+          "clarityScore": 66,
+          "pacingScore": 38
+        },
+        {
+          "timestamp": "00:40:00",
+          "engagementScore": 71,
+          "clarityScore": 67,
+          "pacingScore": 42
+        }
+      ]
+    },
+    {
+      "id": "sess_015",
+      "studentName": "Grace Osei",
+      "date": "2026-06-16",
+      "metrics": [
+        {
+          "timestamp": "00:00:00",
+          "engagementScore": 81,
+          "clarityScore": 61,
+          "pacingScore": 69
+        },
+        {
+          "timestamp": "00:05:00",
+          "engagementScore": 83,
+          "clarityScore": 66,
+          "pacingScore": 67
+        },
+        {
+          "timestamp": "00:10:00",
+          "engagementScore": 86,
+          "clarityScore": 72,
+          "pacingScore": 71
+        },
+        {
+          "timestamp": "00:15:00",
+          "engagementScore": 88,
+          "clarityScore": 66,
+          "pacingScore": 75
+        },
+        {
+          "timestamp": "00:20:00",
+          "engagementScore": 90,
+          "clarityScore": 64,
+          "pacingScore": 79
+        },
+        {
+          "timestamp": "00:25:00",
+          "engagementScore": 85,
+          "clarityScore": 60,
+          "pacingScore": 77
+        }
+      ]
+    },
+    {
+      "id": "sess_014",
+      "studentName": "Lucas Ferreira",
+      "date": "2026-06-10",
+      "metrics": [
+        {
+          "timestamp": "00:00:00",
+          "engagementScore": 74,
+          "clarityScore": 70,
+          "pacingScore": 56
+        },
+        {
+          "timestamp": "00:05:00",
+          "engagementScore": 78,
+          "clarityScore": 74,
+          "pacingScore": 54
+        },
+        {
+          "timestamp": "00:10:00",
+          "engagementScore": 79,
+          "clarityScore": 73,
+          "pacingScore": 60
+        },
+        {
+          "timestamp": "00:15:00",
+          "engagementScore": 74,
+          "clarityScore": 67,
+          "pacingScore": 61
+        },
+        {
+          "timestamp": "00:20:00",
+          "engagementScore": 77,
+          "clarityScore": 70,
+          "pacingScore": 56
+        },
+        {
+          "timestamp": "00:25:00",
+          "engagementScore": 72,
+          "clarityScore": 72,
+          "pacingScore": 53
+        },
+        {
+          "timestamp": "00:30:00",
+          "engagementScore": 74,
+          "clarityScore": 70,
+          "pacingScore": 49
+        }
+      ]
+    },
+    {
+      "id": "sess_008",
+      "studentName": "Noah Kim",
+      "date": "2026-06-09",
+      "metrics": [
+        {
+          "timestamp": "00:00:00",
+          "engagementScore": 67,
+          "clarityScore": 56,
+          "pacingScore": 45
+        },
+        {
+          "timestamp": "00:05:00",
+          "engagementScore": 73,
+          "clarityScore": 58,
+          "pacingScore": 51
+        },
+        {
+          "timestamp": "00:10:00",
+          "engagementScore": 69,
+          "clarityScore": 54,
+          "pacingScore": 55
+        },
+        {
+          "timestamp": "00:15:00",
+          "engagementScore": 70,
+          "clarityScore": 56,
+          "pacingScore": 51
+        },
+        {
+          "timestamp": "00:20:00",
+          "engagementScore": 68,
+          "clarityScore": 58,
+          "pacingScore": 54
+        },
+        {
+          "timestamp": "00:25:00",
+          "engagementScore": 68,
+          "clarityScore": 55,
+          "pacingScore": 56
+        }
+      ]
+    },
+    {
+      "id": "sess_011",
+      "studentName": "Fatima Al-Sayed",
+      "date": "2026-06-09",
+      "metrics": [
+        {
+          "timestamp": "00:00:00",
+          "engagementScore": 57,
+          "clarityScore": 84,
+          "pacingScore": 69
+        },
+        {
+          "timestamp": "00:05:00",
+          "engagementScore": 55,
+          "clarityScore": 85,
+          "pacingScore": 66
+        },
+        {
+          "timestamp": "00:10:00",
+          "engagementScore": 50,
+          "clarityScore": 86,
+          "pacingScore": 72
+        },
+        {
+          "timestamp": "00:15:00",
+          "engagementScore": 52,
+          "clarityScore": 81,
+          "pacingScore": 66
+        },
+        {
+          "timestamp": "00:20:00",
+          "engagementScore": 56,
+          "clarityScore": 83,
+          "pacingScore": 60
+        },
+        {
+          "timestamp": "00:25:00",
+          "engagementScore": 51,
+          "clarityScore": 89,
+          "pacingScore": 57
+        },
+        {
+          "timestamp": "00:30:00",
+          "engagementScore": 47,
+          "clarityScore": 89,
+          "pacingScore": 58
+        }
+      ]
+    },
+    {
+      "id": "sess_007",
+      "studentName": "Priya Nair",
+      "date": "2026-06-01",
+      "metrics": [
+        {
+          "timestamp": "00:00:00",
+          "engagementScore": 89,
+          "clarityScore": 88,
+          "pacingScore": 61
+        },
+        {
+          "timestamp": "00:05:00",
+          "engagementScore": 84,
+          "clarityScore": 86,
+          "pacingScore": 61
+        },
+        {
+          "timestamp": "00:10:00",
+          "engagementScore": 80,
+          "clarityScore": 87,
+          "pacingScore": 55
+        },
+        {
+          "timestamp": "00:15:00",
+          "engagementScore": 85,
+          "clarityScore": 92,
+          "pacingScore": 53
+        },
+        {
+          "timestamp": "00:20:00",
+          "engagementScore": 87,
+          "clarityScore": 98,
+          "pacingScore": 49
+        },
+        {
+          "timestamp": "00:25:00",
+          "engagementScore": 89,
+          "clarityScore": 93,
+          "pacingScore": 53
+        },
+        {
+          "timestamp": "00:30:00",
+          "engagementScore": 87,
+          "clarityScore": 97,
+          "pacingScore": 55
+        },
+        {
+          "timestamp": "00:35:00",
+          "engagementScore": 90,
+          "clarityScore": 94,
+          "pacingScore": 51
+        },
+        {
+          "timestamp": "00:40:00",
+          "engagementScore": 89,
+          "clarityScore": 100,
+          "pacingScore": 47
+        },
+        {
+          "timestamp": "00:45:00",
+          "engagementScore": 91,
+          "clarityScore": 100,
+          "pacingScore": 49
+        },
+        {
+          "timestamp": "00:50:00",
+          "engagementScore": 85,
+          "clarityScore": 100,
+          "pacingScore": 48
+        },
+        {
+          "timestamp": "00:55:00",
+          "engagementScore": 86,
+          "clarityScore": 94,
+          "pacingScore": 43
+        },
+        {
+          "timestamp": "01:00:00",
+          "engagementScore": 85,
+          "clarityScore": 100,
+          "pacingScore": 41
+        }
+      ]
+    },
+    {
+      "id": "sess_016",
+      "studentName": "Daniel Novak",
+      "date": "2026-06-01",
+      "metrics": [
+        {
+          "timestamp": "00:00:00",
+          "engagementScore": 76,
+          "clarityScore": 83,
+          "pacingScore": 57
+        },
+        {
+          "timestamp": "00:05:00",
+          "engagementScore": 73,
+          "clarityScore": 88,
+          "pacingScore": 56
+        },
+        {
+          "timestamp": "00:10:00",
+          "engagementScore": 70,
+          "clarityScore": 92,
+          "pacingScore": 60
+        },
+        {
+          "timestamp": "00:15:00",
+          "engagementScore": 68,
+          "clarityScore": 94,
+          "pacingScore": 61
+        },
+        {
+          "timestamp": "00:20:00",
+          "engagementScore": 66,
+          "clarityScore": 88,
+          "pacingScore": 56
+        },
+        {
+          "timestamp": "00:25:00",
+          "engagementScore": 70,
+          "clarityScore": 88,
+          "pacingScore": 54
+        }
+      ]
+    },
+    {
+      "id": "sess_013",
+      "studentName": "Aria Patel",
+      "date": "2026-05-28",
+      "metrics": [
+        {
+          "timestamp": "00:00:00",
+          "engagementScore": 83,
+          "clarityScore": 83,
+          "pacingScore": 42
+        },
+        {
+          "timestamp": "00:05:00",
+          "engagementScore": 77,
+          "clarityScore": 86,
+          "pacingScore": 43
+        },
+        {
+          "timestamp": "00:10:00",
+          "engagementScore": 79,
+          "clarityScore": 88,
+          "pacingScore": 39
+        },
+        {
+          "timestamp": "00:15:00",
+          "engagementScore": 73,
+          "clarityScore": 90,
+          "pacingScore": 34
+        },
+        {
+          "timestamp": "00:20:00",
+          "engagementScore": 69,
+          "clarityScore": 85,
+          "pacingScore": 37
+        },
+        {
+          "timestamp": "00:25:00",
+          "engagementScore": 64,
+          "clarityScore": 89,
+          "pacingScore": 34
+        },
+        {
+          "timestamp": "00:30:00",
+          "engagementScore": 64,
+          "clarityScore": 84,
+          "pacingScore": 37
+        },
+        {
+          "timestamp": "00:35:00",
+          "engagementScore": 61,
+          "clarityScore": 87,
+          "pacingScore": 40
+        },
+        {
+          "timestamp": "00:40:00",
+          "engagementScore": 55,
+          "clarityScore": 90,
+          "pacingScore": 35
+        },
+        {
+          "timestamp": "00:45:00",
+          "engagementScore": 55,
+          "clarityScore": 94,
+          "pacingScore": 38
+        },
+        {
+          "timestamp": "00:50:00",
+          "engagementScore": 58,
+          "clarityScore": 96,
+          "pacingScore": 37
+        }
+      ]
+    },
+    {
+      "id": "sess_017",
+      "studentName": "Zara Hussain",
+      "date": "2026-05-27",
+      "metrics": [
+        {
+          "timestamp": "00:00:00",
+          "engagementScore": 61,
+          "clarityScore": 63,
+          "pacingScore": 62
+        },
+        {
+          "timestamp": "00:05:00",
+          "engagementScore": 63,
+          "clarityScore": 68,
+          "pacingScore": 62
+        },
+        {
+          "timestamp": "00:10:00",
+          "engagementScore": 65,
+          "clarityScore": 62,
+          "pacingScore": 57
+        },
+        {
+          "timestamp": "00:15:00",
+          "engagementScore": 60,
+          "clarityScore": 67,
+          "pacingScore": 53
+        },
+        {
+          "timestamp": "00:20:00",
+          "engagementScore": 62,
+          "clarityScore": 61,
+          "pacingScore": 52
+        },
+        {
+          "timestamp": "00:25:00",
+          "engagementScore": 65,
+          "clarityScore": 63,
+          "pacingScore": 48
+        }
+      ]
+    },
+    {
+      "id": "sess_019",
+      "studentName": "Yuki Tanaka",
+      "date": "2026-05-26",
+      "metrics": [
+        {
+          "timestamp": "00:00:00",
+          "engagementScore": 84,
+          "clarityScore": 75,
+          "pacingScore": 76
+        },
+        {
+          "timestamp": "00:05:00",
+          "engagementScore": 90,
+          "clarityScore": 72,
+          "pacingScore": 74
+        },
+        {
+          "timestamp": "00:10:00",
+          "engagementScore": 86,
+          "clarityScore": 78,
+          "pacingScore": 79
+        },
+        {
+          "timestamp": "00:15:00",
+          "engagementScore": 81,
+          "clarityScore": 78,
+          "pacingScore": 73
+        },
+        {
+          "timestamp": "00:20:00",
+          "engagementScore": 82,
+          "clarityScore": 75,
+          "pacingScore": 70
+        },
+        {
+          "timestamp": "00:25:00",
+          "engagementScore": 83,
+          "clarityScore": 74,
+          "pacingScore": 68
+        },
+        {
+          "timestamp": "00:30:00",
+          "engagementScore": 89,
+          "clarityScore": 71,
+          "pacingScore": 65
+        }
+      ]
+    },
+    {
+      "id": "sess_020",
+      "studentName": "Sofia Martins",
+      "date": "2026-05-26",
+      "metrics": [
+        {
+          "timestamp": "00:00:00",
+          "engagementScore": 59,
+          "clarityScore": 70,
+          "pacingScore": 72
+        },
+        {
+          "timestamp": "00:05:00",
+          "engagementScore": 57,
+          "clarityScore": 69,
+          "pacingScore": 76
+        },
+        {
+          "timestamp": "00:10:00",
+          "engagementScore": 59,
+          "clarityScore": 69,
+          "pacingScore": 80
+        },
+        {
+          "timestamp": "00:15:00",
+          "engagementScore": 61,
+          "clarityScore": 68,
+          "pacingScore": 74
+        },
+        {
+          "timestamp": "00:20:00",
+          "engagementScore": 56,
+          "clarityScore": 66,
+          "pacingScore": 70
+        },
+        {
+          "timestamp": "00:25:00",
+          "engagementScore": 59,
+          "clarityScore": 64,
+          "pacingScore": 64
+        },
+        {
+          "timestamp": "00:30:00",
+          "engagementScore": 54,
+          "clarityScore": 67,
+          "pacingScore": 64
+        },
+        {
+          "timestamp": "00:35:00",
+          "engagementScore": 53,
+          "clarityScore": 72,
+          "pacingScore": 70
+        },
+        {
+          "timestamp": "00:40:00",
+          "engagementScore": 52,
+          "clarityScore": 72,
+          "pacingScore": 73
+        },
+        {
+          "timestamp": "00:45:00",
+          "engagementScore": 54,
+          "clarityScore": 67,
+          "pacingScore": 73
+        },
+        {
+          "timestamp": "00:50:00",
+          "engagementScore": 57,
+          "clarityScore": 64,
+          "pacingScore": 71
+        },
+        {
+          "timestamp": "00:55:00",
+          "engagementScore": 51,
+          "clarityScore": 69,
+          "pacingScore": 71
+        },
+        {
+          "timestamp": "01:00:00",
+          "engagementScore": 45,
+          "clarityScore": 71,
+          "pacingScore": 77
+        }
+      ]
+    }
+  ]
+}
