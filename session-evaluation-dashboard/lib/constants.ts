@@ -1,5 +1,8 @@
 import type { MetricKey } from "./types";
 
+export const DEMO_ACCESS_CODE = "session-demo";
+export const SESSIONS_API_URL = "/api/sessions";
+
 export const metricConfig: Array<{ key: MetricKey; label: string; color: string }> = [
   { key: "engagementScore", label: "Engagement", color: "#e03737" },
   { key: "clarityScore", label: "Clarity", color: "#5f36e8" },
